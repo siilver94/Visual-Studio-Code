@@ -1,5 +1,7 @@
 # shortcut key (단축키)
 
+<br/>
+
 ctrl+X	행 삭제 (빈 선택)	editor.action.clipboardCutAction
 
 ctrl+C	행 복사 (빈 선택)	editor.action.clipboardCopyAction
