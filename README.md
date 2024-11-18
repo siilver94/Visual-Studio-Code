@@ -57,6 +57,6 @@ VS 코드는 데이터 과학계에서 인기가 있는 편이다(비주얼 스�
 
 <br/>
 
-출처 :  https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A3%BC%EC%96%BC_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%BD%94%EB%93%9C
+<br/>
 
-출처 : https://www.ciokorea.com/news/130955
+*출처 : https://ko.wikipedia.org/wiki/%EB%B9%84%EC%A3%BC%EC%96%BC_%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4_%EC%BD%94%EB%93%9C*
